@@ -14,7 +14,7 @@ app_icon                                  : # assets/appicon.png                
 app_name                                  : Nerd
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : |
-    Nerd is the ultimate study tool for students everywhere! With Nerd, students can easily post their questions to the community and get answers from other students in real-time. From tough math problems to complex science concepts, Nerd has got you covered. Plus, with the ability to set a profile picture and connect with like-minded students, Nerd makes learning fun and engaging. So why wait? Download Nerd today and join the smartest community on the block!
+    Nerd is the go-to app for students who want quick answers to their toughest questions. With Nerd, students can easily connect with a community of like-minded learners, get real-time answers, and make studying fun. Download Nerd today and start acing your exams!
 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Navjeeven Mann
-your_link                                 : 
+your_link                                 :
 your_city                                 : Toronto
 email_address                             : jeevendeveloper@gmail.com
 facebook_username                         :
