@@ -47,7 +47,7 @@ features                                  :
     
   - title                                 : Connect with Like-minded Learners
     description                           : Connect with other students who share your interests and passion for learning.
-    fontawesome_icon_name                 : connectdevelop
+    fontawesome_icon_name                 : user-group
 
   - title                                 : Secure Data Storage
     description                           : Rest easy knowing that your personal information is kept secure through our secure data storage system.
@@ -59,23 +59,8 @@ features                                  :
     
   - title                                 : User-friendly Interface
     description                           : Our intuitive interface makes it easy for students of all ages and backgrounds to use Nerd and get the most out of their learning experience.
-    fontawesome_icon_name                 : sparkles
+    fontawesome_icon_name                 : uikit
   
-  - title                                 : Workout
-    description                           : CardioBot makes your Heart Rate analysis during workout to calculate your workout quality score.
-    fontawesome_icon_name                 : running
-
-  - title                                 : Trends
-    description                           : CardioBot enables historical data analysis that helps you to understand how new habits influence your heart.
-    fontawesome_icon_name                 : chart-bar
-
-  - title                                 : American Heart Association
-    description                           : CardioBot powered by smart recommendation system, which helps you to improve every aspect of your heart using AHA studies.
-    fontawesome_icon_name                 : comments
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
