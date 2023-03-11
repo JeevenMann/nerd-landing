@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
@@ -52,7 +52,7 @@ Users have the right to access, correct, and delete their personal information. 
 
 ## Contact Us
 
-If you have any questions or concerns about our privacy policy or how we handle personal information, please contact us at [nerd@support.com](mailto:nerd@support.com).
+If you have any questions or concerns about our privacy policy or how we handle personal information, please contact us at [jeevendeveloper@gmail.com](mailto:jeevendeveloper@gmail.com).
 
 ## Changes to This Privacy Policy
 
