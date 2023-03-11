@@ -2,8 +2,8 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1574121774
-ios_app_country                           : ca                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1149412984
+ios_app_country                           : us                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -11,19 +11,24 @@ presskit_download_link                    : /presskit.zip                       
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Nerd
+app_name                                  : CardioBot
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Join nerd for free and become the student you were meant to be!
+app_description                           : Your Apple Watch measures your heart rate every 4 minutes during the day. With CardioBot, you can easily understand the data captured by the Apple Watch so you can improve your lifestyle and discover notable patterns.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Navjeeven
-your_city                                 : Toronto
-email_address                             : jeevendeveloper@gmail.com
-
+your_name                                 : Majid Jabrayilov
+your_link                                 : https://mecid.github.io
+your_city                                 : Baku
+email_address                             : cmecid@gmail.com
+facebook_username                         : majid.jabrayilov                                          
+instagram_username                        : mecid8
+twitter_username                          : mecid
+github_username                           : mecid
+youtube_username                          :
 
 
 
@@ -66,6 +71,9 @@ features                                  :
     description                           : CardioBot powered by smart recommendation system, which helps you to improve every aspect of your heart using AHA studies.
     fontawesome_icon_name                 : comments
 
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
