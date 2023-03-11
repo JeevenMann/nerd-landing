@@ -47,7 +47,7 @@ features                                  :
     
   - title                                 : Connect with Like-minded Learners
     description                           : Connect with other students who share your interests and passion for learning.
-    fontawesome_icon_name                 : user-group
+    fontawesome_icon_name                 : school
 
   - title                                 : Secure Data Storage
     description                           : Rest easy knowing that your personal information is kept secure through our secure data storage system.
@@ -59,7 +59,7 @@ features                                  :
     
   - title                                 : User-friendly Interface
     description                           : Our intuitive interface makes it easy for students of all ages and backgrounds to use Nerd and get the most out of their learning experience.
-    fontawesome_icon_name                 : uikit
+    fontawesome_icon_name                 : pen
   
 
 
